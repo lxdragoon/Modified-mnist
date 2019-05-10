@@ -13,6 +13,9 @@ github repository[4].
 ## Reference
 
 [1] https://www.dropbox.com/sh/jn8p1pvpgjy3b9b/AABWc6ouePh2YJFZkGA9zE3ha?dl=0
+
 [2] https://github.com/aymericdamien/TensorFlow-Examples#tensorflow-examples
+
 [3] https://arxiv.org/pdf/1612.08083.pdf
+
 [4] https://github.com/lxdragoon/Modified-mnist
