@@ -9,8 +9,8 @@ Task 2 is to implement the gated convolutional neural network (GCN) developed by
 al. to train the dataset. All codes are written in Python with TensorFlow and can be found in the
 github repository[4].
 
-Reference
-[1] https://www.dropbox.com/sh/jn8p1pvpgjy3b9b/AABWc6ouePh2YJFZkGA9zE3ha?dl=0
-[2] https://github.com/aymericdamien/TensorFlow-Examples#tensorflow-examples
-[3] https://arxiv.org/pdf/1612.08083.pdf
-[4] https://github.com/lxdragoon/Modified-mnist
+#Reference
+#[1] https://www.dropbox.com/sh/jn8p1pvpgjy3b9b/AABWc6ouePh2YJFZkGA9zE3ha?dl=0
+#[2] https://github.com/aymericdamien/TensorFlow-Examples#tensorflow-examples
+#[3] https://arxiv.org/pdf/1612.08083.pdf
+#[4] https://github.com/lxdragoon/Modified-mnist
